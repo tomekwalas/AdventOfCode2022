@@ -1,7 +1,9 @@
 package main
 
-import "advent-of-code-2022/day08"
+import (
+	"advent-of-code-2022/day09"
+)
 
 func main() {
-	day08.Solution()
+	day09.Solution()
 }
